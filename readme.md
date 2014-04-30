@@ -16,7 +16,7 @@ Do not use this approach if you want to run nightly builds!
 
 ### Install dependencies
 
-You may need to start by updating the system repositories
+You may need to start by updating the system  repositories
 
     sudo apt-get update
 
